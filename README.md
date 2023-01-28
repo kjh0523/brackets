@@ -52,7 +52,7 @@ See the [Brackets Extension Registry](https://registry.brackets.io/)
 for a list of available extensions. For installation instructions,
 see the [extensions wiki page](https://github.com/brackets-cont/brackets/wiki/Brackets-Extensions).
 
-#### Need help?
+#### 도움이 필요한가요?
 
 Having problems starting Brackets the first time, or not sure how to use Brackets?  Please 
 review [Troubleshooting](https://github.com/brackets-cont/brackets/wiki/Troubleshooting), which helps 
