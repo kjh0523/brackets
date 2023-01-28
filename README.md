@@ -1,11 +1,10 @@
-Welcome to Brackets! [![Build Status](https://travis-ci.org/adobe/brackets.svg?branch=master)](https://travis-ci.org/adobe/brackets)
+Brackets에 오신것을 환영 합니다. [![Build Status](https://travis-ci.org/adobe/brackets.svg?branch=master)](https://travis-ci.org/adobe/brackets)
 -------------------
 
-Brackets is a modern open-source code editor for HTML, CSS
-and JavaScript that's *built* in HTML, CSS and JavaScript.
+Brackets은 HTML, CSS 그리고 Javascript로 만들어진 HTML, CSS, Javascript를 위한 현대적인 오픈소스 코드 에디터 입니다.  
 
-This is a fork of a [project](https://github.com/adobe/brackets) previously maintained by Adobe.
-We might change names in the future.
+이 프로젝트는 예전에 Adobe가 관리하던 [프로젝트](https://github.com/adobe/brackets)의 포크입니다.  
+우리는 밀래에 이름을 변경 할 것입니다. 
 
 A lot of work needs to be done to make this fork become independent. Feel free to open a PR!
 Want to help coordinating the project itself? Check the projects tab ([here](https://github.com/brackets-cont/brackets/projects/1?fullscreen=true)).
@@ -32,11 +31,11 @@ on the wiki, [intro videos](http://www.youtube.com/user/CodeBrackets) on YouTube
 
 How to install and run Brackets
 -------------------------------
-#### Download
+#### 다운로드
 
 Installers for the latest stable build for Mac and Windows can be [downloaded here](https://brackets-cont.github.io/).
 
-#### Usage
+#### 사용
 
 By default, Brackets opens a folder containing some simple "Getting Started" content.
 You can choose a different folder to edit using *File > Open Folder*.
@@ -59,10 +58,10 @@ Having problems starting Brackets the first time, or not sure how to use Bracket
 review [Troubleshooting](https://github.com/brackets-cont/brackets/wiki/Troubleshooting), which helps 
 you to fix common problems and find extra help if needed.
 
-Helping Brackets
+Brackets를 도우는 법
 ----------------
 
-#### I found a bug!
+#### 나는 버그를 발견 했습니다. 
 
 If you found a repeatable bug, and [troubleshooting](https://github.com/brackets-cont/brackets/wiki/Troubleshooting) 
 tips didn't help, then be sure to [search existing issues](https://github.com/brackets-cont/brackets/issues) first.
@@ -71,14 +70,14 @@ Brackets version number. Disable all extensions to verify the issue is a core Br
 [Read more guidelines for filing good bugs.](https://github.com/brackets-cont/brackets/wiki/How-to-Report-an-Issue)
 
 
-#### I have a new suggestion, but don't know how to program!
+#### 제안이 있습니다만, 프로그램을 개발하지 못합니다. 
 
 For feature requests please first check our [Trello board](http://bit.ly/BracketsBacklog) to
 see if it's already there; you can upvote it if so. If not, feel free to file it as an issue as above; we'll
 move it to the feature backlog for you.
 
 
-#### I want to help with the code!
+#### 프로그램 고드로 도움을 드리고 싶습니다. 
 
 Awesome! _There are lots of ways you can help._ First read 
 [CONTRIBUTING.md](https://github.com/brackets-cont/brackets/blob/master/CONTRIBUTING.md), 
@@ -102,7 +101,7 @@ I want to keep track of how Brackets is doing!
 
 Not sure you needed the exclamation point there, but we like your enthusiasm.
 
-#### What's Brackets working on next?
+#### 이 다음에 Brackets 어떤 작업을 할 것입니까?
 
 * In our [feature backlog](http://bit.ly/BracketsBacklog), the columns to the right
   (starting from "Development") list the features that we're currently working on.
@@ -110,7 +109,7 @@ Not sure you needed the exclamation point there, but we like your enthusiasm.
 * Watch our [GitHub activity stream](https://github.com/brackets-cont/brackets/pulse).
 * The entire development process is outlined in the [Developer Guide](https://github.com/brackets-cont/brackets/wiki/Brackets-Developers-Guide).
 
-#### Contact info
+#### 연락처 정보
 
 <!-- * **E-mail:** [admin@brackets.io](mailto:admin@brackets.io)
 * **Slack:** [Brackets on Slack](https://brackets.slack.com) (You can join by sending a mail to [admin@brackets.io](mailto:admin@brackets.io) with the subject line `slack registration request` specifying the email addresses you would like to register).
