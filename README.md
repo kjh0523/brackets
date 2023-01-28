@@ -9,7 +9,7 @@ Brackets은 HTML, CSS 그리고 Javascript로 만들어진 HTML, CSS, Javascript
 A lot of work needs to be done to make this fork become independent. Feel free to open a PR!
 Want to help coordinating the project itself? Check the projects tab ([here](https://github.com/brackets-cont/brackets/projects/1?fullscreen=true)).
 
-What makes Brackets different from other web code editors?
+다른 웹 코드 에디터들과 Brackets은 어떤 차이들을 만드나요?
 
 * **Tools shouldn't get in your way.** Instead of cluttering up your coding
 environment with lots of panels and icons, the Quick Edit UI in Brackets puts 
@@ -20,16 +20,14 @@ back and forth between your real source code and the browser view.
 * **Do it yourself.** Because Brackets is open source, and built with HTML, CSS
 and JavaScript, you can [help build](https://github.com/brackets-cont/brackets/blob/master/CONTRIBUTING.md) the best code editor for the web.
 
-Brackets may have reached version 1, but we're not stopping there. We have many feature ideas on our
+Brackets는 1.0 버전이 되었습니다. 하지만, 우리는 멈추지 않을 겁니다. We have many feature ideas on our
 [trello board](http://bit.ly/BracketsTrelloBoard) that we're anxious to add and other
 innovative web development workflows that we're planning to build into Brackets. 
 So take Brackets out for a spin and let us know how we can make it your favorite editor. 
 
-You can see some 
-[screenshots of Brackets](https://github.com/brackets-cont/brackets/wiki/Brackets-Screenshots)
-on the wiki, [intro videos](http://www.youtube.com/user/CodeBrackets) on YouTube, and news on the [Brackets blog](http://blog.brackets.io/).
+당신은 위키에서 약간의 [Brackets 스크린샷](https://github.com/brackets-cont/brackets/wiki/Brackets-Screenshots)을, 유투브에서 [소개 비디오](http://www.youtube.com/user/CodeBrackets)를, 그리고 [Brackets 블로그](http://blog.brackets.io/)에서 소식을 볼 수있습니다. 
 
-How to install and run Brackets
+Brackets 설치 및 실행
 -------------------------------
 #### 다운로드
 
