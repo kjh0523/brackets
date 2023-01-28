@@ -30,8 +30,7 @@ So take Brackets out for a spin and let us know how we can make it your favorite
 Brackets 설치 및 실행
 -------------------------------
 #### 다운로드
-
-Installers for the latest stable build for Mac and Windows can be [downloaded here](https://brackets-cont.github.io/).
+마지막 Mac과 Winsows를 위한 안정버젼 설치관리자는 [여기](https://brackets-cont.github.io/)에서 다운로드할 수 있습니다.
 
 #### 사용
 
